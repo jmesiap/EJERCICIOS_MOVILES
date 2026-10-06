@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Dashboard</string>
+
+    <!-- Login -->
+    <string name="txt_login_titulo">Bienvenidos a App Iesch</string>
+    <string name="btn_login_login">Login</string>
+
+
+    <!-- Dashboard -->
+
+    <string name="txt_dashboard_bienvenida">Hola %1$s</string>
+    <string name="txt_dashboard_saludo">Buenos días</string>
+    <string name="btn_dashboard_edad_canina">Edad Canina</string>
+    <string name="btn_dashboard_super_heroes">SuperHeroes</string>
+    <string name="btn_dashboard_preguntas">Preguntas</string>
+    <string name="btn_dashboard_ajustes">Ajustes</string>
+    <string name="btn_dashboard_favoritos">Favoritos</string>
+    <string name="btn_dashboard_salir">Salir</string>
+
+    <!-- Edad Canina -->
+
+    <string name="pregunta_edad">¿Qué edad tienes?</string>
+    <string name="introduce_tu_edad">Introduce tu edad</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado_texto">Si fueras un perro, tu edad sería de %d años.</string>
+    <string name="texto_toast">Has de introducir tu edad.</string>
+
+</resources>
